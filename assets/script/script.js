@@ -83,7 +83,7 @@ function renderButtons(trimester) {
 
 function displayMedicalInfo() {
     var currentWeek = $(this).data('week');
-   
+
     getVids(0, currentWeek);
     walMartProduct(currentWeek);
 }
@@ -95,7 +95,7 @@ var vidHeight = 400;
 var vidResults = 1;
 
 function getPlayList(numWeek) {
-   
+
     $.get(
         "https://www.googleapis.com/youtube/v3/channels", {
             part: 'contentDetails',
@@ -104,7 +104,7 @@ function getPlayList(numWeek) {
         },
         function(data) {
             $.each(data.items, function(i, item) {
-                console.log(item);
+                // console.log(item);
                 pid = item.contentDetails.relatedPlaylists.uploads;
                 getVids(pid, numWeek);
             })
@@ -113,7 +113,7 @@ function getPlayList(numWeek) {
 }
 
 function getVids(pid, numWeek) {
-  
+
     $.get(
         "https://www.googleapis.com/youtube/v3/search", {
             part: 'snippet',
@@ -129,9 +129,10 @@ function getVids(pid, numWeek) {
                 videoTitle = item.snippet.title;
                 videoId = item.id.videoId;
 
-                output = '<li><iframe height="' + vidHeight + '"  width="' + vidWidth + '" src=\"https://www.youtube.com/embed/' + videoId + '\"></iframe></li>';
-
+                // output = '<li><iframe height="' + vidHeight + '"  width="' + vidWidth + '" src=\"https://www.youtube.com/embed/' + videoId + '\"></iframe></li>';
+                output = '<li><iframe class="embed-responsive-item"' + '" src=\"https://www.youtube.com/embed/' + videoId + '\"></iframe></li>';
                 //Append to resutls listStyleType
+                $('#results').addClass('embed-responsive embed-responsive-4by3');
                 $('#results').html(output);
             })
         }
@@ -139,9 +140,7 @@ function getVids(pid, numWeek) {
 }
 
 function walMartProduct(walmartWeek) {
-    var shoppingItem = babyItem[walmartWeek-1];
-   
-
+    var shoppingItem = babyItem[walmartWeek - 1];
     var queryURL = "http://utcors1.herokuapp.com/http://api.walmartlabs.com/v1/search?query=" + shoppingItem + "&format=json&apiKey=9n38r73usu824f5xcgeucemu"; //adds item number to api url to be searched
 
     $.ajax({
@@ -149,17 +148,32 @@ function walMartProduct(walmartWeek) {
         method: 'GET'
     }).done(function(response) {
 
-    $("#dynamicTable > tbody").empty();
-    var babyInfo = "I've seen some better than this, but not at this price. I definitely recommend this item.";
-    var babyRow = "<tr><td><img class='img-responsive' src ='"+response.items[0].mediumImage+"'/>" +
-     "</td><td>" + response.items[0].name + "</td></tr>"
+        $("#dynamicTable > tbody").empty();
+        var babyInfo = "I've seen some better than this, but not at this price. I definitely recommend this item.";
+        var babyRow = "<tr><td><img class='img-responsive' src ='" + response.items[0].mediumImage + "'/>" +
+            "</td><td>" + response.items[0].name + "</td></tr>"
 
-    $('#dynamicTable > tbody').append(babyRow);
-   
+        $('#dynamicTable > tbody').append(babyRow);
+
 
     });
 }
-$("#datepicker").datepicker();
+$("#datepicker").datepicker({
+
+    onSelect: function(dateText, inst) {
+        $("#getting-started")
+            .countdown(dateText, function(event) {
+                $(this).text(
+                    event.strftime('%D days %H:%M:%S')
+                );
+            });
+        // alert('Selected: ' + dateText +
+        //     "\n\nid: " + inst.id +
+        //     "\nselectedDay: " + inst.selectedDay +
+        //     "\nselectedMonth: " + inst.selectedMonth +
+        //     "\nselectedYear: " + inst.selectedYear);
+    },
+});
 $(document).on('click', '.week-btn', displayMedicalInfo);
 
 var babyItem = ["baby book",
