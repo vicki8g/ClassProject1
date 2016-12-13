@@ -1,0 +1,581 @@
+{
+  "Result": {
+    "Error": "False",
+    "Total": "8",
+    "Query": {
+      "ApiVersion": "2",
+      "ApiType": "myhealthfinder",
+      "TopcId": null,
+      "ToolId": null,
+      "CategoryId": null,
+      "PopulationId": null,
+      "Keyword": null,
+      "Who": "me",
+      "Age": "18",
+      "Sex": "Female",
+      "Pregnant": "1",
+      "Category": "pregnant",
+      "Lang": "en",
+      "Type": null,
+      "ReturnType": "json",
+      "Callback": null,
+      "HealthfinderPage": null
+    },
+    "Language": "English",
+    "MyHFHeading": "You said you are a <strong>pregnant woman</strong> age <strong>18</strong>. Here are important ways to stay healthy and have a healthy pregnancy.",
+    "AboutTheseResults": "<p>The myhealthfinder recommendations come from the U.S. Preventive Services Task Force (USPSTF), the CDC Advisory Committee on Immunization Practices (ACIP), and the Health Resources and Services Administration (HRSA) as advised by organizations including the American Academy of Pediatrics (through the Bright Futures cooperative agreement) and the National Academies of Sciences, Engineering, and Medicine (formerly the Institute of Medicine). The Affordable Care Act requires most insurance plans to cover these preventive services at no cost to you.</p>\r\n\r\n<ul>\r\n\t<li><a href=\"/HealthCareReform/\">Get details about insurance coverage for these preventive services</a>.&nbsp;</li>\r\n\t<li><a href=\"/HealthCareReform/ACA-myhealthfinder.aspx\">Learn about myhealthfinder and the Affordable Care Act</a>.</li>\r\n</ul>\r\n\r\n<p>The myhealthfinder tool is maintained by the Office of Disease Prevention and Health Promotion (ODPHP) in collaboration with the Agency for Healthcare Research and Quality (AHRQ).</p>\r\n",
+    "Resources": {
+      "Interest": null,
+      "Some": null,
+      "All": null,
+      "Pregnant": {
+        "Resource": [
+          {
+            "Type": "topic",
+            "Id": "18",
+            "Title": "Protect Yourself from Seasonal Flu",
+            "TranslationId": "52",
+            "TranslationTitle": "Protégete de la gripe",
+            "Categories": "Shots (Vaccines), Doctor Visits",
+            "Populations": null,
+            "MyHFTitle": "Get the Seasonal Flu Vaccine",
+            "MyHFDescription": "Get a flu shot to help prevent the flu. The flu can be more serious in pregnant&nbsp;women. (ACIP)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "7/25/2016 3:59:52 PM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/icons/protectyourselffromseasonalflu.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/shotsvaccines/protect-yourself-from-seasonal-flu",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "topic",
+                  "Id": "21",
+                  "Title": "Eat Healthy",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/diabetes/eat-healthy"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "58",
+                  "Title": "Get Shots to Protect Your Health (for Adults)",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/shotsvaccines/get-important-shots"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "68",
+                  "Title": "Get Enough Sleep",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/everyday-healthy-living/mental-health-and-relationship/get-enough-sleep"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": "The Basics",
+                  "Description": "Get a seasonal flu shot every year. The flu shot is available starting each fall.",
+                  "Content": "<p>Everyone age 6 months and older needs to get a flu shot (vaccine) every year. The seasonal flu vaccine is the best way to protect yourself and others from the&nbsp;flu.</p><p>For many people, the seasonal flu is a mild illness. But for some people, the flu can be dangerous or even deadly.</p><p>The flu can sometimes:</p><ul><li>Cause serious infections like pneumonia (&ldquo;noo-MOHN-yah&rdquo;)</li><li>Make existing health problems&nbsp;worse (for example, flu can cause asthma attacks in people with asthma)</li><li>Lead to hospitalization or death</li></ul><p>The flu spreads easily from person to person. When you get a flu vaccine, you don&rsquo;t just protect yourself. You also protect everyone around you.</p><h3>When do I need to get the seasonal flu vaccine?</h3><p>Get a flu vaccine&nbsp;soon after&nbsp;it&rsquo;s available each year &ndash; if possible, by October. After you get the vaccine, it&nbsp;takes about 2 weeks for&nbsp;your body&nbsp;to develop protection against the flu. That&rsquo;s why it&rsquo;s a good idea to get the vaccine before the flu starts to spread&nbsp;in your community.</p><p>Flu season can be different from year to year. It can start as early as October and last as late as May. Most years, flu season is between December and February.</p><h3>What is the flu?</h3><p>The flu is caused by viruses that infect&nbsp;your nose, throat, and lungs. It&rsquo;s easily spread from person to person when someone with the flu&nbsp;coughs, sneezes, or talks. It&#39;s also possible to get the flu by touching a surface or object that has flu virus on it and touching your mouth, nose, or eyes.&nbsp;</p><p>Symptoms of the flu may include:</p><ul><li>Headache</li><li>Tiredness</li><li>Cough</li><li>Sore throat</li><li>Runny or stuffy nose</li><li>Muscle or body aches</li><li>Fever of 100 &deg;F or higher</li><li>Feeling feverish or having chills</li><li>Vomiting (throwing up) and diarrhea (frequent, watery poop)</li></ul><p>Remember, not everyone with the flu has a fever.&nbsp;</p><h3>How is the flu vaccine given?</h3><p>Most people get the flu vaccine as a shot. A nasal spray is available but it&#39;s not recommended because it doesn&#39;t provide the same protection as the shot.&nbsp;</p><p>The best way to protect yourself and others around you is to get a flu shot every year.&nbsp;</p><h3>Are there any side effects from the seasonal flu vaccine?</h3><p>Most people don&rsquo;t have any side effects after getting a&nbsp;flu shot. Some people may have mild side effects that begin soon after the vaccine is given and usually last 1 to 2 days.&nbsp;</p><p>Side effects may include:</p><ul><li>Soreness, redness, or swelling where the shot was given</li><li>Low fever</li><li>Aches</li></ul><p>These side effects aren&rsquo;t the flu. You can&rsquo;t get the flu from the flu shot because it&rsquo;s made from killed flu viruses.</p><h3>Am I at high risk for serious complications from the flu?</h3><p>For some people, the flu is more likely to cause serious illness that can lead to hospitalization or even death.&nbsp;</p><p>People at high risk for getting complications from the flu include:</p><ul><li><a href=\"http://www.cdc.gov/flu/protect/children.htm\" >Children under age 5</a>&nbsp;&ndash; especially children under age 2</li><li><a href=\"http://www.cdc.gov/flu/protect/vaccine/pregnant.htm\" >Pregnant women&nbsp;</a>and women who&#39;ve had a baby in the last 2 weeks</li><li><a href=\"http://www.cdc.gov/flu/about/disease/65over.htm\" >Adults age 65 and older</a></li><li><a href=\"http://www.cdc.gov/flu/about/disease/high_risk.htm\" >People with some long-term health conditions</a> (for example, asthma, diabetes, heart disease, HIV/AIDS, or cancer)</li><li>People who live in long-term care facilities,&nbsp;like nursing homes</li><li><a href=\"http://www.cdc.gov/flu/pdf/freeresources/native/protect_circle_life_factsheet.pdf\" >American Indians and Alaska Natives [PDF - 1.1 MB]</a></li></ul><p>If you are at high risk from the flu, it&rsquo;s very important to get a vaccine before the flu starts to spread in your community.&nbsp;</p><p>If you care for or spend time with someone at high risk from the flu, you can protect both of you by getting a flu vaccine.</p><h3>Is there medicine that can treat the flu?</h3><p>Yes. If you get sick with the flu,&nbsp;your doctor may prescribe medicines called antiviral drugs. Antiviral drugs can help you feel less sick and&nbsp;shorten the time you are sick.</p><p>If you are at high risk for complications from the flu, it&rsquo;s important to ask your doctor about antiviral drugs right away.</p><p>Antiviral drugs work best in the first 2 days after you get sick, but they may still help if you take them later on, especially if you are very sick.</p><p>Get the facts about <a href=\"http://www.cdc.gov/flu/antivirals/whatyoushould.htm\" >flu antiviral medicine</a>.</p>"
+                },
+                {
+                  "Title": "Take Action!",
+                  "Description": "Call your local health department and ask where you can get the flu shot.",
+                  "Content": "<p>Flu shots are offered in many locations. You can get a flu shot at a doctor&rsquo;s office, health&nbsp;clinic, pharmacy, or&nbsp;your local health department. Your employer may also offer the flu shot.</p><h3>Find out where to get a flu vaccine near you.</h3><p><a href=\"http://flushot.healthmap.org/\" >Use this vaccine locator</a> to find out where you can get a flu vaccine&nbsp;near you.</p><h4>What about cost?</h4><p>Thanks to the <a href=\"https://www.healthcare.gov/health-care-law-protections/\" >Affordable Care Act</a>, the health care reform law passed in 2010, insurance plans must cover the seasonal flu vaccine.</p><ul><li>Depending on your insurance, you may be able to get the flu vaccine at no cost to&nbsp;you.&nbsp;Talk to your insurance company&nbsp;to find out more.&nbsp;</li><li>If you have Medicare Part B, you can get a&nbsp;flu vaccine for free.</li></ul><p>To learn more about other services covered by the Affordable Care Act, <a href=\"https://www.healthcare.gov/what-are-my-preventive-care-benefits\" >visit&nbsp;HealthCare.gov</a>.</p><h3>Protect yourself and others from the flu.</h3><p>Getting a flu vaccine is the first and most important step in protecting yourself from the flu.</p><p>Here are some other things you can do to keep from getting and spreading the flu:</p><ul><li>Stay away from people who are sick with the flu.</li><li>Wash your hands often with soap and water. If soap and water aren&rsquo;t available, use an alcohol-based hand rub (hand sanitizer).</li><li>Try not to touch your nose, mouth, or eyes.</li></ul><p>If you have the flu:</p><ul><li>Stay home for at least 24 hours after your fever is gone.</li><li>Cover your mouth and nose with a tissue when you cough or sneeze.</li><li>Wear a face mask if you have to go out (like to a doctor visit).&nbsp;</li></ul><p>Remember, people with the flu can spread flu virus to others for 5 to 7 days after they first feel sick.&nbsp;</p>"
+                }
+              ]
+            },
+            "MoreInfoItems": null,
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "topic",
+            "Id": "48",
+            "Title": "Have a Healthy Pregnancy",
+            "TranslationId": "34",
+            "TranslationTitle": "Disfruta de un embarazo saludable",
+            "Categories": "Doctor and Midwife Visits",
+            "Populations": "Pregnancy, Women",
+            "MyHFTitle": null,
+            "MyHFDescription": "Get early prenatal care (health care during pregnancy) and don&rsquo;t smoke or drink alcohol during pregnancy. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "9/29/2016 11:44:43 AM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/icons/haveahealthypregnancy.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/have-a-healthy-pregnancy",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "topic",
+                  "Id": "24",
+                  "Title": "Quit Smoking",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/diabetes/quit-smoking"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "48",
+                  "Title": "Eat Healthy During Pregnancy: Quick&nbsp;tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/nutrition-and-physical-activity/eat-healthy-during-pregnancy-quick-tips"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "57",
+                  "Title": "Talk with Your Doctor about Newborn Screening",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/talk-with-your-doctor-about-newborn-screening"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "58",
+                  "Title": "Get Shots to Protect Your Health (for Adults)",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/shotsvaccines/get-important-shots"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "94",
+                  "Title": "Protect Your Family from Food Poisoning",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/nutrition-and-physical-activity/nutrition/protect-your-family-from-food-poisoning"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "95",
+                  "Title": "Prevent Infections When You Get Medical Care",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/talking-with-the-doctor/prevent-infections-when-you-get-medical-care"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": "The Basics",
+                  "Description": "For a healthy pregnancy, eat healthy, stay active, and see your doctor or midwife regularly.",
+                  "Content": "<p>Health care during pregnancy is called prenatal (&quot;pree-NAY-tuhl&quot;) care. Getting prenatal care can help you have a healthier baby. It also lowers the risk of your baby being born too early.</p><p>During prenatal care, your doctor or midwife can find any health problems that may come up. A midwife is a health professional who provides health care during pregnancy and helps women during labor (childbirth).</p><h3>Get regular prenatal checkups.</h3><p>Schedule a visit with your doctor or midwife as soon as you know you&#39;re pregnant, or think you might be. You&#39;ll need many checkups with your doctor or midwife&nbsp;during your pregnancy. Don&#39;t miss any &ndash; they are all important.</p><p>Be sure to get all the medical tests that your doctor or midwife recommends. Early treatment can cure many problems and prevent others.</p><h3>Take steps to have a healthy pregnancy.</h3><p>To keep you and your baby healthy, it&#39;s important that you:</p><ul><li>Don&rsquo;t smoke or drink alcohol.</li><li>Eat healthy foods and get enough folic acid.</li><li>Stay active.</li><li>Take steps to prevent infections.</li></ul><p>Get more tips for a healthy pregnancy:</p><ul><li><a href=\"http://www.womenshealth.gov/pregnancy/you-are-pregnant/index.html\" >If you just learned you are pregnant, find out what to do next</a>.</li><li><a href=\"http://www.womenshealth.gov/publications/our-publications/fact-sheet/prenatal-care.html#d\" >Check out these pregnancy do&rsquo;s and don&rsquo;ts</a>.</li></ul><h3>Make the most of each visit with the doctor or midwife.</h3><p>Talk with your doctor or midwife about:</p><ul><li>Your medical history, including surgeries you&#39;ve had</li><li>Medicines you take &ndash; including vitamins, supplements, and herbs</li><li>Your family&rsquo;s health history</li><li>Questions you have about pregnancy, labor, and breastfeeding</li><li>How to get help buying food if you need it &ndash; ask about a program called WIC (Women, Infants, and Children)</li><li>Anything that&rsquo;s bothering or worrying you</li></ul><p>If you aren&#39;t feeling well, don&#39;t wait to call your doctor or midwife. <a href=\"http://www.womenshealth.gov/pregnancy/you-are-pregnant/pregnancy-complications.html#d\" >Find out when to call your doctor or midwife right away</a>.</p><h3>Make a birth plan.</h3><p>A birth plan describes what you want to happen during labor and after your baby&#39;s birth. It can include:</p><ul><li>Where you would like to give birth &ndash; at a hospital, birthing center, or at home</li><li>Who you want with you for support&nbsp;(like trusted family members or close friends) before, during, and after your labor</li><li>How you want to manage pain during labor</li><li>Who you want to help you make important medical decisions during your labor</li><li>How you will start breastfeeding after your baby is born</li></ul><h3>Get important medical tests.</h3><p>During your pregnancy, your doctor or midwife will recommend medical tests that all women need as part of routine prenatal care. Some tests need to be done more than once.</p><p>These&nbsp;tests give your doctor or midwife important information about you and your baby.&nbsp;Your blood and urine (pee) will be checked for:</p><ul><li>Blood type and <a href=\"http://www.nhlbi.nih.gov/health/health-topics/topics/rh/\" >Rh factor</a></li><li><a href=\"http://www.cdc.gov/hepatitis/HBV/PDFs/HepBPerinatal-ProtectWhenPregnant.pdf\" >Hepatitis B [PDF - 859 KB]</a></li><li><a href=\"http://kidney.niddk.nih.gov/Kudiseases/pubs/utiadult/\" >Urinary tract infection</a></li><li><a href=\"http://www.cdc.gov/std/syphilis/STDFact-syphilis.htm#pregnant\" >Syphilis</a></li><li><a href=\"http://www.aids.gov/hiv-aids-basics/prevention/reduce-your-risk/pregnancy-and-childbirth/\" >HIV</a></li><li><a href=\"http://www.cdc.gov/features/rubella/\" >Signs of past infections with Rubella (German measles)</a></li></ul><p>If you are younger than age 25 or have certain risk factors, your doctor or midwife may also&nbsp;check for <a href=\"http://www.cdc.gov/std/pregnancy/STDFact-Pregnancy.htm\" >other sexually transmitted diseases (STDs)</a>.</p><h3>Talk about your family history.</h3><p>Share your personal and family&nbsp;health history with your doctor. This will help you and your doctor or midwife&nbsp;decide whether you need any other tests, like genetic testing. <a href=\"http://www.nlm.nih.gov/medlineplus/genetictesting.html\" >Find out more about genetic testing</a>.</p><h3>Get tested for diabetes.</h3><ul><li>Pregnant women at high risk for type 2 diabetes need to get tested at the first prenatal visit. <a href=\"http://www.diabetes.org/are-you-at-risk/diabetes-risk-test/\" >Find out about your risk for type 2&nbsp;diabetes.</a></li><li>All pregnant women need to get tested for gestational (&ldquo;jes-TAY-shon-al&rdquo;) diabetes between 24 and 28 weeks of pregnancy. Gestational diabetes is a type of diabetes that some women develop during pregnancy.</li></ul><h4>What do I need to know about gestational diabetes?</h4><p>Gestational diabetes can lead to health problems for moms and babies&nbsp;&ndash; during and after pregnancy. It&rsquo;s important to get tested so that you and your doctor or midwife can take steps to protect your health and your baby&rsquo;s health.</p><p>You are at greater risk for gestational diabetes if you:</p><ul><li>Are overweight or obese</li><li>Have a family history of diabetes</li><li>Are over age 25</li><li>Are African American, Hispanic or Latino American, American Indian, Alaska Native, Asian, or Pacific Islander</li><li>Had gestational diabetes during an earlier pregnancy</li><li>Have had a baby weighing over 9 pounds</li></ul><p>You can reduce your risk for gestational diabetes by eating healthy and staying active during pregnancy.</p><ul><li><a href=\"http://www.cdc.gov/diabetes/pubs/pdf/gestationaldiabetes.pdf\" >Learn more about gestational diabetes [PDF - 372 KB]</a>.</li><li><a href=\"https://healthfinder.gov/HealthTopics/Category/doctor-visits/talking-with-the-doctor/gestational-diabetes-screening-questions-for-the-doctor\">Use these questions to ask your doctor about getting screened for gestational diabetes</a>.</li></ul><h3>What about cost?</h3><p>Thanks to the&nbsp;<a href=\"https://www.healthcare.gov/how-does-the-health-care-law-protect-me/#part=1\" >Affordable Care Act</a>, the health care reform law passed in 2010, insurance plans must cover routine prenatal tests. Depending on your insurance, you may be able to get these tests at no cost to you. Talk to your insurance company to find out more.</p><p>To learn about other services covered by the Affordable Care Act, <a href=\"https://www.healthcare.gov/preventive-care-women/\" >visit&nbsp;HealthCare.gov</a>.</p><p>You can also get help from your state to pay for medical care during pregnancy. There are programs that give medical care, information, advice, and other services that are important for a healthy pregnancy. To find out about the program in your state:</p><ul><li>Call 1-800-311-BABY (1-800-311-2229).</li><li>For information in Spanish, call 1-866-783-2645.</li></ul>"
+                },
+                {
+                  "Title": "Take Action!",
+                  "Description": "Start a list of questions to ask your doctor or midwife.",
+                  "Content": "<p>There are lots of things you can do today to have a healthy pregnancy and a healthy&nbsp;baby.</p><h3>Get regular prenatal care.</h3><p>Plan on getting a prenatal checkup at least once a month for the first 7 months &ndash; and more often during the last 2 months of your pregnancy.</p><h4>Get important shots.</h4><p>The whooping cough and flu shots are recommended for all pregnant women. Talk to your doctor or midwife about getting other&nbsp;shots (vaccines) to help protect you and your baby. <a href=\"https://healthfinder.gov/HealthTopics/Topic.aspx?id=58\">Learn more about shots for adults</a>.&nbsp;</p><h4>Take charge of your health care.</h4><p>Speak up and ask questions when you are at a medical visit. When you play an active role in your health care, you help make sure that you and your growing family will get good care. <a href=\"https://healthfinder.gov/HealthTopics/Topic.aspx?id=78\">Find out how to take charge of your health care</a>.</p><h3>Keep track of your baby&rsquo;s movement.</h3><p>After about 28 weeks of pregnancy, you will probably start to feel your baby move. Keep track of how often your baby moves. If you think your baby is moving less than usual, call your doctor or midwife.</p><h3>Don&rsquo;t smoke or drink alcohol.</h3><p>One of the best ways to protect your health and your baby&#39;s health is to stop smoking and drinking alcohol before you become pregnant &ndash; or as soon as possible during your pregnancy.</p><p>There is no safe amount to drink or smoke while you are pregnant. Both can harm the health of your baby. Talk with your doctor or midwife about ways to help you quit.</p><p>Secondhand smoke (smoke from other people&rsquo;s cigarettes) can also put you and your baby at risk for health problems. Stay away from cigarette smoke.</p><p>Learn more:</p><ul><li><a href=\"http://www.cdc.gov/Features/PregnantDontSmoke/\" >Pregnant? Don&rsquo;t Smoke!</a></li><li><a href=\"https://healthfinder.gov/HealthTopics/Topic.aspx?id=24\">Quit Smoking</a></li><li><a href=\"http://www.cdc.gov/ncbddd/fasd/alcohol-use.html\" >Alcohol Use in Pregnancy</a></li></ul><h3>Eat healthy foods.</h3><p>Making healthy food choices during pregnancy can help you gain weight in a healthy way, feel good while you are pregnant, and have&nbsp;a healthy baby.</p><ul><li><a href=\"https://healthfinder.gov/HealthTopics/Category/pregnancy/nutrition-and-physical-activity/eat-healthy-during-pregnancy-quick-tips\">Check out these tips on healthy eating during pregnancy</a>.</li><li>Talk with your doctor or midwife about your nutritional needs during&nbsp;pregnancy.&nbsp;Ask if you need to take a daily prenatal vitamin.</li><li>Be sure to <a href=\"https://healthfinder.gov/HealthTopics/Category/pregnancy/nutrition-and-physical-activity/get-enough-folic-acid#the-basics_1 \">get enough folic acid</a> &ndash; at least 400 micrograms (mcg) every day. Folic acid is a vitamin that can prevent birth defects.</li></ul><h4>Gain weight in a healthy way.</h4><p>Gaining a certain amount of weight during pregnancy is important for your health and your baby&#39;s health.&nbsp;<a href=\"http://www.cdc.gov/reproductivehealth/maternalinfanthealth/pregnancy-weight-gain.htm\" >Use this resource to learn how much weight is healthy for you to gain during pregnancy.</a></p><p>Remember, pregnancy is not a good time to lose weight. Even if you are overweight, you still need to gain some weight for your baby to grow well. Ask your doctor or midwife how much weight is healthy for you to gain.&nbsp;</p><h3>Stay active.&nbsp;</h3><p>Being physically active may help you have a more comfortable pregnancy. Aim for 2 hours and 30 minutes a week of moderate aerobic activity, like walking fast, dancing, or swimming. Do aerobic activity for at least 10 minutes at a time.&nbsp;</p><p>Get more information about&nbsp;exercise during pregnancy:</p><ul><li><a href=\"https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-during-pregnancy-quick-tips\">Stay Active During Pregnancy: Quick tips</a></li><li><a href=\"http://www.niddk.nih.gov/health-information/health-topics/weight-control/tips-for-two-pregnancy/Pages/fit-for-two.aspx\" >Fit for Two: Health Tips for Pregnant Women</a></li></ul><h3>Take steps to prevent infections.</h3><p>To prevent infections and help keep your unborn baby safe:</p><ul><li>Wash your hands often with soap and water.</li><li><a href=\"http://www.fda.gov/Food/FoodborneIllnessContaminants/PeopleAtRisk/ucm312704.htm#common\" >Avoid certain foods, such as lunchmeat and soft cheeses</a>.</li><li><a href=\"http://www.fda.gov/Food/FoodborneIllnessContaminants/PeopleAtRisk/ucm081819.htm\" >Prepare food safely</a>. Don&rsquo;t forget to rinse fruits and vegetables.</li><li>Have someone else empty your cat&rsquo;s litter box. Dirty cat litter has germs that can harm pregnant women. If you must clean the box, wear gloves and wash your hands.&nbsp;</li><li>Get shots to protect you from whooping cough and flu.</li><li>If you are traveling to an area with Zika, learn how to <a href=\"http://www.cdc.gov/zika/pregnancy/protect-yourself.html\" >protect yourself from Zika virus.</a></li><li><a href=\"http://www.cdc.gov/pregnancy/infections.html\" >Learn more about preventing infections during pregnancy</a>.&nbsp;</li></ul><h3>Ask for help if you need it.</h3><p>Being pregnant may be tiring or stressful at times. Extra support from loved ones can help you have a more comfortable pregnancy. Family members or friends can:</p><ul><li>Provide emotional support so you feel less stressed</li><li>Visit the doctor or midwife with you</li><li>Go with you to a breastfeeding class</li><li>Change the litter box if you have a cat</li><li>Help prepare for the baby&rsquo;s arrival by setting up furniture</li></ul><p>Think about what you need, and don&rsquo;t be afraid to ask for help.</p><h3>Plan ahead for the first few weeks with your new baby.</h3><p>Having a new baby is exciting, but it can be stressful.&nbsp;</p><ul><li>Get tips to help you <a href=\"http://www.womenshealth.gov/pregnancy/getting-ready/index.html\" >prepare for your new baby</a>.</li><li><a href=\"https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/keep-your-baby-safe-during-sleep\">Create a safe sleeping area for your baby</a>, without soft objects in the crib. Always put babies to sleep on their back.</li><li><a href=\"https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/talk-with-your-doctor-about-newborn-screening\">Talk with your doctor or midwife about newborn screening&nbsp;tests</a>.</li><li>Get more information about how to <a href=\"https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/breastfeed-your-baby\">breastfeed your baby</a>.</li><li>Talk to friends and family about helping out after the baby arrives. Keep in mind that people can always drop off food but not stay!</li><li><a href=\"http://www.womenshealth.gov/publications/our-publications/fact-sheet/depression-pregnancy.html#b\" >Know the signs and symptoms of postpartum depression</a>. More than 1 in 10 women suffer from depression after they have a baby. Talk to your doctor or midwife if you have any questions or&nbsp;concerns.</li></ul><h3>Not pregnant yet? Plan ahead.</h3><ul><li><a href=\"http://www.womenshealth.gov/pregnancy/before-you-get-pregnant/index.html\" >Find out what to do before you get pregnant</a>.</li><li><a href=\"https://healthfinder.gov/HealthTopics/Category/nutrition-and-physical-activity/nutrition/get-enough-folic-acid\">Make sure you are getting 400 micrograms (mcg) of folic acid every day</a>. Taking folic acid before and during early pregnancy can help prevent certain birth defects. Most multivitamins have 400 mcg of folic acid &ndash; check the label to be sure.</li><li><a href=\"http://www.cdc.gov/ncbddd/fasd/alcohol-use.html\" >Stop drinking alcohol when you start trying to get pregnant</a>.&nbsp;</li><li><a href=\"http://www.cdph.ca.gov/programs/CBDMP/Pages/ChemicalsandSolvents%28BirthDefectInformationExposuresandRiskFactors%29.aspx\" >Stay away from harmful chemicals like paint thinner and bug spray.</a>&nbsp;</li><li><a href=\"https://healthfinder.gov/HealthTopics/Category/everyday-healthy-living/mental-health-and-relationships/take-steps-to-protect-yourself-from-relationship-violence\">Take steps to protect yourself from relationship violence</a>.</li></ul><h4>Schedule an appointment with a doctor or midwife.</h4><ul><li><a href=\"https://healthfinder.gov/HealthTopics/Category/doctor-visits/screening-tests/get-your-blood-pressure-checked\">Get your blood pressure checked</a>. If you have high blood pressure, ask your doctor how you can control it before and during your pregnancy.</li><li><a href=\"http://www.cdc.gov/vaccines/adults/rec-vac/pregnant.html\" >Ask about getting shots (vaccines) before you get&nbsp;pregnant</a>.</li><li><a href=\"http://www.cdc.gov/preconception/careforwomen/history.html\" >Talk with your doctor or nurse about your family history</a>, including any medical conditions you have that could affect a pregnancy.</li><li>If you feel sad or &quot;down&quot; for more than 2 weeks at a time,&nbsp;<a href=\"https://healthfinder.gov/HealthTopics/Category/doctor-visits/screening-tests/talk-with-your-doctor-about-depression\">ask about getting help for depression</a>.&nbsp;</li></ul>"
+                }
+              ]
+            },
+            "MoreInfoItems": null,
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "topic",
+            "Id": "49",
+            "Title": "Get Tested for HIV",
+            "TranslationId": "38",
+            "TranslationTitle": "Hazte la prueba del VIH",
+            "Categories": "HIV and Other STDs, Screening Tests, Sexual Health",
+            "Populations": "Sexual Health, Women",
+            "MyHFTitle": null,
+            "MyHFDescription": "Protect yourself and your baby by getting tested for HIV. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "10/28/2016 9:58:36 AM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/icons/gettestedforhiv.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/get-tested-for-hiv",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "tool",
+                  "Id": "17",
+                  "Title": "STD Testing: Conversation starters",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/std-testing-conversation-starters"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "28",
+                  "Title": "HIV Testing: Questions for the doctor",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/hiv-testing-questions-for-the-doctor"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "32",
+                  "Title": "Get Tested for Chlamydia and Gonorrhea",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/get-tested-for-chlamydia-and-gonorrhea"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "66",
+                  "Title": "Hepatitis C Screening: Questions for the doctor",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/talking-with-the-doctor/hepatitis-c-screening"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "75",
+                  "Title": "Testing for Syphilis: Questions for the doctor",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/syphilis-testing-questions-for-the-doctor"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "87",
+                  "Title": "Choose the Right Birth Control",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/everyday-healthy-living/sexual-health/choose-the-right-birth-control"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": "The Basics",
+                  "Description": "The only way to know if you have HIV is to get tested.",
+                  "Content": "<p>The only way to know if you have HIV is to get tested. You could have HIV and still feel healthy.</p><h3>How often do I need to get&nbsp;tested for HIV?</h3><p>Everyone ages 15 to 65 needs to get tested for HIV at least once. All pregnant women also need to get tested. How often you need to get tested depends on your risk for HIV infection.</p><h4>Get tested for HIV at least once a year if you:&nbsp;</h4><ul><li>Have sex without a condom with someone who may have HIV</li><li>Are a man who has sex with men</li><li>Use drugs with needles</li><li>Have a sex partner who has HIV</li><li>Have had a sexually transmitted disease (STD)</li><li>Have sex with more than one partner</li><li>Have sex with people you don&rsquo;t know</li><li>Have sex for drugs or money</li><li>Are a woman who has sex with a man who also has sex with other men</li></ul><p>If you are a man who has sex with men, you may need to get tested more than once a year &ndash; like every 3 to 6 months. Talk to your doctor or nurse about how often you need to get tested.</p><h3>What is HIV?</h3><p>HIV stands for human immunodeficiency virus. This is the virus that causes AIDS. There is no cure yet for HIV/AIDS, but there are treatments that can help people live longer, healthier lives.</p><h4>How do people get HIV?</h4><p>HIV is spread through some of the body&rsquo;s fluids, like blood, semen (cum), vaginal fluids, and breast milk. HIV is passed from one person to another by:</p><ul><li>Having sex (vaginal, anal, or oral) without a condom or dental dam with a person who has HIV</li><li>Sharing needles with someone who has HIV</li><li>Breastfeeding, pregnancy, or childbirth if the mother has HIV</li><li>Getting a transfusion of blood that&rsquo;s infected with HIV (very rare in the United States)</li></ul><p>Learn more about HIV/AIDS:</p><ul><li><a href=\"http://aids.gov/hiv-aids-basics/hiv-aids-101/what-is-hiv-aids/\" >What is HIV/AIDS?</a></li><li><a href=\"http://www.womenshealth.gov/hiv-aids/\" >Women and HIV/AIDS</a></li></ul><h3>Why do I need to get tested for HIV?</h3><p>The only way to know if you have HIV is to get tested.&nbsp;Many people with HIV don&rsquo;t have any symptoms. In the United States, about 1 in 8 people who have HIV don&#39;t know it.</p><p>Even if you don&rsquo;t feel sick, getting early treatment for HIV is important.</p><ul><li>If you don&rsquo;t have HIV (you are HIV-negative), you can take steps to make sure you stay HIV-free.</li><li>If you have HIV (you are HIV-positive), you can take steps to have a healthier future. You can also take steps to protect other people.</li></ul><h4>Live longer with HIV.</h4><p>If you have HIV, early treatment can help you live a longer, healthier life. The sooner you get care for HIV, the better.</p><ul><li><a href=\"http://aids.gov/hiv-aids-basics/just-diagnosed-with-hiv-aids/treatment-options/overview-of-hiv-treatments/\" >Find out about treatment options for HIV</a>.</li><li><a href=\"http://aids.gov/hiv-aids-basics/staying-healthy-with-hiv-aids/taking-care-of-yourself/doctor-clinic-and-dental-visits/\" >Get information about staying healthy with HIV</a>.</li><li><a href=\"http://locator.aids.gov/\" >Use this tool to find services for people with HIV or AIDS</a>, like housing assistance, health centers, and counseling.</li></ul><h4>Protect yourself and others.</h4><p>If you have&nbsp;HIV, you can <a href=\"https://www.aids.gov/hiv-aids-basics/prevention/reduce-your-risk/mixed-status-couples/\" >take steps to protect your partner</a> from the virus. If you are pregnant or thinking about getting pregnant, you can get treatment to <a href=\"http://womenshealth.gov/hiv-aids/preventing-hiv-infection/protecting-your-children-from-hiv.html#a\" >prevent passing HIV to your baby</a>.</p><h3>How can I get tested for HIV?</h3><p>You can get an HIV test at a doctor&#39;s office or clinic &ndash; or you can test yourself at home. There are different types of HIV tests. Some use a sample of your blood and some use fluid from your mouth.</p><h4>How long does it take to get the test results?</h4><p>It depends on the type of HIV test you get.</p><ul><li>Lab tests take from a few days to 2 weeks to give results.</li><li>Rapid tests give results in 30 minutes or less.</li><li>Home test results can be ready in 20 minutes or by the next business day.</li></ul><p>If you test positive, you&#39;ll need a second HIV test to be sure.&nbsp;<a href=\"http://aids.gov/hiv-aids-basics/prevention/hiv-testing/hiv-test-types/\" >Find out more about the different types of HIV tests</a>.</p><h4>What&rsquo;s the difference between confidential and anonymous testing?</h4><p>When you get tested at a doctor&rsquo;s office or clinic, your test results are <strong>confidential</strong>. This means they can only be shared with people allowed to see your medical records.</p><p>If you are worried about giving your name, you can get an <strong>anonymous</strong> HIV test at some clinics. This means that you don&rsquo;t have to give your&nbsp;name.&nbsp;<a href=\"https://www.aids.gov/hiv-aids-basics/prevention/hiv-testing/confidential-anonymous-testing/index.html\" >Learn more about confidential and anonymous HIV testing</a>.</p>"
+                },
+                {
+                  "Title": "Take Action!",
+                  "Description": "Talk with your partner about getting tested together before you have sex.",
+                  "Content": "<p>Take these steps to protect yourself and others from HIV.</p><h3>Find a place to get tested.</h3><p>Ask your doctor or nurse for an HIV test. Or visit an HIV testing center or health clinic. You also can get tested at a hospital or health department.</p><p>To find an HIV testing center near you:</p><ul><li><a href=\"https://gettested.cdc.gov/\" >Enter your ZIP code to find local testing sites</a>.</li><li>Call 1-800-CDC-INFO (1-800-232-4636).</li><li><a href=\"https://wwwn.cdc.gov/dcs/ContactUs/Form\" >Use this online form to email CDC-INFO</a>.</li></ul><p>If you want to know more about HIV testing and prevention, <a href=\"https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/hiv-testing-questions-for-the-doctor\">take this list of questions to your appointment</a>.</p><h4>What about cost?</h4><p>Free HIV testing is available at some testing centers and health clinics.</p><p>Thanks to the <a href=\"https://www.healthcare.gov/health-care-law-protections/\" >Affordable Care Act</a>, the health care reform law passed in 2010, insurance plans must cover HIV testing.&nbsp;HIV counseling is covered for women who are sexually active. Talk to your insurance company to find out more.</p><p>To learn about other services covered by the Affordable Care Act, <a href=\"https://www.healthcare.gov/what-are-my-preventive-care-benefits\" >visit&nbsp;HealthCare.gov</a>.</p><h3>Protect yourself from HIV.</h3><p>The best way to protect yourself from HIV is to not have sex until you are in a relationship with only one person <strong>and</strong> you have both tested negative.</p><p>Here are other steps you can take to help prevent HIV:</p><ul><li>Use a latex condom with water-based lubricant every time you have vaginal or anal sex.</li><li>When you have oral sex, use a condom or dental dam (rectangular sheet of latex placed over the vagina).</li><li>If you share sex toys with your partner, use a condom and clean them between each use.</li><li>Limit your number of sexual partners.</li><li>Don&rsquo;t inject drugs or share needles.</li><li>If you have more than one sexual partner, get tested for HIV regularly.</li></ul><p><a href=\"http://www.hiv.va.gov/patient/daily/sex/condom-tips.asp\" >Check out these condom do&#39;s and don&#39;ts</a>.</p><h3>Talk with your partner about getting tested.</h3><p>It&rsquo;s important to make time to talk before having sex. Ask your partner to get tested for HIV and other STDs. Offer to get tested together.</p><p>These ideas can help you start the conversation:</p><ul><li><a href=\"https://healthfinder.gov/HealthTopics/Tool.aspx?id=17\">STD Testing: Conversation starters</a></li><li><a href=\"http://kidshealth.org/teen/sexual_health/stds/the_talk.html\" >Tips for teens: Talking to your partner about STDs</a></li></ul><h3>Get counseling about HIV prevention.</h3><p>If you want more information about preventing HIV, ask your local testing center if they offer prevention counseling. You may want counseling if:</p><ul><li>You are worried about getting HIV</li><li>You have HIV and are worried about giving it to someone else</li></ul>"
+                }
+              ]
+            },
+            "MoreInfoItems": null,
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "topic",
+            "Id": "57",
+            "Title": "Talk with Your Doctor about Newborn Screening",
+            "TranslationId": "41",
+            "TranslationTitle": "Habla con el doctor sobre las pruebas de detección que necesitan los recién nacidos",
+            "Categories": "Doctor and Midwife Visits, Getting Ready for Your Baby, Doctor Visits",
+            "Populations": "Pregnancy, Women",
+            "MyHFTitle": null,
+            "MyHFDescription": "Talk to your doctor about important newborn screening tests. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "9/29/2016 3:15:21 PM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/icons/talkwithyourdoctoraboutnewbornscreening.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/talk-with-your-doctor-about-newborn-screening",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "tool",
+                  "Id": "29",
+                  "Title": "Stay Active During Pregnancy: Quick&nbsp;tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-during-pregnancy-quick-tips"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "48",
+                  "Title": "Eat Healthy During Pregnancy: Quick&nbsp;tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/nutrition-and-physical-activity/eat-healthy-during-pregnancy-quick-tips"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "48",
+                  "Title": "Have a Healthy Pregnancy",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/have-a-healthy-pregnancy"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "50",
+                  "Title": "Breastfeed Your Baby",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/breastfeed-your-baby"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "59",
+                  "Title": "Eat Healthy While Breastfeeding: Quick tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/parenting/nutrition-and-physical-activity/eat-healthy-while-breastfeeding-quick-tips"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "103",
+                  "Title": "Keep Your Baby Safe During Sleep",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/keep-your-baby-safe-during-sleep"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": "The Basics",
+                  "Description": "Talk with your doctor or midwife about newborn screening before your baby is born.",
+                  "Content": "<p>Talk about newborn screening with your doctor or midwife <strong>before</strong> your baby is&nbsp;born. Newborn screenings are tests that check for diseases and conditions in newborn babies.</p><p>Newborn screening lets doctors find many diseases and conditions early &ndash; before your baby shows any signs. Early treatment is important to keep your baby healthy and developing normally.&nbsp;</p><p>Most tests are done before your baby leaves the hospital. They don&#39;t cause any harm or risk to your baby. <a href=\"http://www.babysfirsttest.org/newborn-screening/screening-procedures#\" >Check out these frequently asked questions about newborn screening.</a>&nbsp;</p><h3>What tests will my baby need?</h3><p>All states require newborn screening. But the number and types of tests vary from state to state. Depending on your family health history, you may want to ask for extra tests.</p><p>Most newborn screening tests use a few drops of blood taken from the heel of your baby&#39;s foot. The same sample of blood can be used to test for many different diseases, including:</p><ul><li><strong><em>Hypothyroidism</em></strong> &ndash; The thyroid is a gland in the neck that makes hormones. Hypothyroidism can cause&nbsp;problems with growth and&nbsp;development, but it can be treated if it&#39;s found early.</li><li><strong><em>PKU (phenylketonuria)</em></strong> &ndash; PKU means babies can&rsquo;t process certain foods and must be fed special formula. It can cause intellectual disability (mental skills that are below average) if it&rsquo;s not treated early.</li><li><strong><em>Sickle cell disease&nbsp;</em></strong>&ndash; This is a blood disorder that can cause problems like serious pain, infection, or stroke. If it&rsquo;s found early, sickle cell disease can be watched and treated.</li></ul><h4>Heart defects</h4><p>Heart defects (problems with the heart) can cause serious problems or death if they&#39;re not found and treated early.</p><p>Tests for heart defects use a small sensor that is placed on your baby&#39;s hand or foot. The test is painless and only takes a few minutes.</p><h4>Hearing</h4><p>A hearing test uses a small microphone or earphone to check how your baby responds to sounds. Finding out if your baby has hearing loss can help prevent problems with speech, language, and social development.</p><p>If your hospital doesn&rsquo;t screen for hearing loss, make sure to have your baby&rsquo;s hearing checked within the first&nbsp;month.</p><p>It&#39;s also important to have your baby&#39;s hearing checked regularly, since some hearing loss starts after the time when newborn screening tests are done.&nbsp;</p><p><a href=\"http://www.cdc.gov/ncbddd/hearingloss/treatment.html\" >If your child has hearing loss, early intervention programs can help</a>. Early intervention programs help teach language skills and other skills to kids age 3 and younger who have hearing loss.</p>"
+                },
+                {
+                  "Title": "Take Action!",
+                  "Description": "Find out which tests are offered at the hospital where your baby will be born.",
+                  "Content": "<p>If you are pregnant, talk with your doctor about newborn screening before your baby is&nbsp;born.</p><h3>Find out which tests your hospital offers.</h3><p>Ask your doctor or midwife about newborn screening. Find out which screening tests are offered at the hospital where your baby will be&nbsp;born.</p><p>If you aren&#39;t planning to give birth at a hospital, your baby still needs to get screened. Ask your midwife if she can screen your baby for you. Or, take your baby to a hospital or clinic to get checked a few days after&nbsp;birth.</p><ul><li><a href=\"http://www.babysfirsttest.org/newborn-screening/states\" >See which screening tests are offered in your state.</a>&nbsp;</li><li><a href=\"http://www.cdc.gov/mmwr/international/relres.html\" >Contact your state health department</a> to ask about required newborn screening.</li></ul><h3>Follow up.</h3><p>Ask the doctor when you will get your baby&rsquo;s test results. Some tests may need to be repeated after 1 or 2 weeks, especially if you leave the hospital before your baby is 24 hours old. Make a plan with your&nbsp;doctor.</p><h4>What about cost?</h4><p>Some newborn screening tests are covered under the <a href=\"https://www.healthcare.gov/health-care-law-protections/\" >Affordable Care Act</a>, the health care reform law passed in 2010. Depending on your insurance plan, you may be able to get your baby screened at no cost to&nbsp;you.</p><p>Check with your insurance provider to find out what&rsquo;s included in your plan. For information about other services for children that are covered by the Affordable Care Act, <a href=\"https://www.healthcare.gov/preventive-care-children/\" >visit HealthCare.gov</a>.</p><p>If you don&rsquo;t have insurance, you can still get medical care for yourself and your baby. Call one of the toll-free phone numbers below to connect with the health department in your area. Ask about free&nbsp;care.</p><ul><li>For information in English, call 1-800-311-BABY (1-800-311-2229).</li><li>For information in Spanish, call 1-800-504-7081.</li></ul><h3>Schedule well-baby checkups.</h3><p>Most babies have their first checkup 2 to 3 days after coming home from the hospital. A well-baby visit is when you take your baby to the doctor for a full checkup. This is different from other visits for sickness or injury. <a href=\"https://healthfinder.gov/HealthTopics/Category/parenting/doctor-visits/make-the-most-of-your-babys-visit-to-the-doctor-ages-0-to-11-months\">Find out why well-baby visits are important for keeping your child healthy</a>.</p><h3>Start building your child&rsquo;s health record now.</h3><p>Keep track of your baby&rsquo;s test results and shots. Put medical information in a safe place &ndash; you will need it for child care, school, and other activities.</p><p>Your family&rsquo;s health history is an important part of your baby&rsquo;s health record. <a href=\"https://familyhistory.hhs.gov/FHH/html/index.html\" >Use this family health history tool</a> to keep track of your family&rsquo;s health. Keep a copy with your baby&rsquo;s other health information.</p>"
+                }
+              ]
+            },
+            "MoreInfoItems": null,
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "topic",
+            "Id": "50",
+            "Title": "Breastfeed Your Baby",
+            "TranslationId": "42",
+            "TranslationTitle": "Amamanta a tu bebé (dale el pecho)",
+            "Categories": "Getting Ready for Your Baby, Nutrition and Physical Activity",
+            "Populations": "Nutrition and Physical Activity, Babies and Toddlers",
+            "MyHFTitle": null,
+            "MyHFDescription": "Try to breastfeed your baby for at least the first 12 months. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "5/26/2016 9:22:35 AM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/icons/breastfeedyourbaby.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/breastfeed-your-baby",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "tool",
+                  "Id": "29",
+                  "Title": "Stay Active During Pregnancy: Quick&nbsp;tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-during-pregnancy-quick-tips"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "48",
+                  "Title": "Eat Healthy During Pregnancy: Quick&nbsp;tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/nutrition-and-physical-activity/eat-healthy-during-pregnancy-quick-tips"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "48",
+                  "Title": "Have a Healthy Pregnancy",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/have-a-healthy-pregnancy"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "57",
+                  "Title": "Talk with Your Doctor about Newborn Screening",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/talk-with-your-doctor-about-newborn-screening"
+                },
+                {
+                  "Type": "tool",
+                  "Id": "59",
+                  "Title": "Eat Healthy While Breastfeeding: Quick tips",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/parenting/nutrition-and-physical-activity/eat-healthy-while-breastfeeding-quick-tips"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "89",
+                  "Title": "Make the Most of Your Baby&rsquo;s Visit to the Doctor (Ages 0 to 11 Months)",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/parenting/doctor-visits/make-the-most-of-your-babys-visit-to-the-doctor-ages-0-to-11-months"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "103",
+                  "Title": "Keep Your Baby Safe During Sleep",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/keep-your-baby-safe-during-sleep"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": "The Basics",
+                  "Description": "Breastfeeding is healthy for you and your baby. Breastfeed your baby for the first 6 to 12 months, if you&nbsp;can.",
+                  "Content": "<p>Breastfeeding is very healthy for you <strong>and</strong> your baby. Experts recommend breastfeeding your baby for at least the first 12 months. Breast milk is the only food or liquid your baby needs for the first 6 months.</p><p>Breastfeeding is natural, but that doesn&rsquo;t mean it&rsquo;s always easy. You and your baby may need practice &ndash;&nbsp;and almost all moms need a little help,&nbsp;especially in the beginning. But it does&nbsp;get&nbsp;easier with time.</p><p>To get ready for breastfeeding:</p><ul><li>Talk to your doctor or midwife about breastfeeding.</li><li>Make a plan for after your baby is born.</li><li>Get close to your baby right away.</li></ul><p>Once you start to&nbsp;breastfeed:</p><ul><li>Nurse whenever your baby is hungry.</li><li>Ask for help if breastfeeding is difficult.</li></ul><p><a href=\"http://www.womenshealth.gov/breastfeeding/learning-to-breastfeed.html\" >Use these questions and answers to learn how to breastfeed</a>.</p><h3>Does my newborn need any other foods?</h3><p>No. Until your baby is 6 months old, she only needs your breast milk. In fact, giving babies things like rice cereal, baby food, or formula during the first 6 months can keep them from getting the nutrients they need from breast milk.</p><p>Here are some guidelines to help you make sure your baby gets the nutrition she needs.</p><h4>Birth to age 6 months:</h4><ul><li>Feed your baby breast milk only (no formula, juice, cow&#39;s milk, solid foods, or water).</li><li>Give your baby any vitamins, minerals, or medicine that your doctor recommends.</li></ul><h4>Ages 6 months to 12 months:</h4><ul><li>Keep breastfeeding your baby.</li><li>Introduce your baby to new foods.</li></ul><h4>Age 12 months and up:</h4><ul><li>Keep adding new foods to your baby&#39;s diet.</li><li>Continue to breastfeed as long as it&nbsp;feels right for&nbsp;you and your baby.</li></ul><h3>What are the benefits of breastfeeding?</h3><p>Breastfeeding gives you and your baby time to be close, get to know each other, and bond. Breastfeeding is a healthy choice for both moms and babies.</p><h4>Benefits for your baby</h4><p>Breast milk:</p><ul ><li>Has just the right amount of protein, fat, sugar, and water to help your baby grow</li><li>Helps protect your baby from infection and illness</li><li>Is&nbsp;easier for babies to digest than formula</li></ul><h4>Benefits for you</h4><p>Breastfeeding:</p><ul ><li>Can save your family thousands of dollars</li><li>May help protect you from ovarian cancer, breast cancer, and heart disease</li></ul><p><a href=\"http://www.womenshealth.gov/breastfeeding/breastfeeding-benefits.html\" >Learn more about the benefits of breastfeeding</a>.</p><h3>If you are worried about breastfeeding, you aren&#39;t alone.</h3><p>It&#39;s normal to have concerns about breastfeeding! The information below may help answer some of your questions.</p><h4>My baby really doesn&#39;t need other food or liquid for the first 6 months?</h4><p>Right. Your breast milk has exactly the right balance of calories and nutrients. Giving your baby formula or other foods or liquids can cause him to gain weight too fast, which can lead to health problems later.</p><p>Also, when your baby gets cereal or formula instead of breast milk, your body gets a signal that your milk isn&rsquo;t needed and starts to make less milk. The more your baby nurses, the more milk your body makes.</p><h4>Will my baby be able to sleep through the night without other foods?</h4><p>Many moms worry that their babies won&#39;t be full enough to sleep through the night with only breast milk. Actually, babies under age 6 months aren&#39;t supposed to sleep through the night&nbsp;&ndash;&nbsp;they need to nurse every few hours, even at night.</p><p>Giving your baby only breast milk for the first 6 months can help lower your baby&#39;s risk of Sudden Infant Death Syndrome (SIDS). <a href=\"https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/keep-your-baby-safe-during-sleep\">Learn more about keeping your baby safe during sleep</a>.</p><h4>If I breastfeed, will I be the only one who can feed my baby?</h4><p>Many moms think they won&#39;t get a break if they can&#39;t have someone else feed the baby. But you can learn how to pump and store breast milk so your baby can eat when you aren&#39;t there.</p><p>You can also get a baby sling or other carrier to make going out with your baby easier. With practice, you may be able to feed your baby in the carrier without anyone noticing!</p><p>It&#39;s also important to know that babies who are breastfed are often healthier than babies who aren&#39;t. And that can mean less time spent at home with a sick baby.</p>"
+                },
+                {
+                  "Title": "Take Action!",
+                  "Description": "If you are going to be away from your baby, ask your doctor or midwife how you can plan to supply breast&nbsp;milk.",
+                  "Content": "<p>Here are some tips and resources for breastfeeding success.&nbsp;</p><h3>Talk to your doctor or midwife about breastfeeding.</h3><p><span>While you are pregnant, tell your doctor or midwife that you plan to breastfeed.&nbsp;</span><span>Ask what kind of support is available to help you learn how to breastfeed.</span></p><p>If you have a health condition or take any medicines, make sure it&#39;s okay for you to breastfeed. Keep in mind that most conditions and medicines won&#39;t keep you from breastfeeding.</p><p><a href=\"https://www2.aap.org/breastfeeding/files/pdf/AAP%20FindFriendlyPractice.pdf\" >Get tips for finding breastfeeding-friendly doctor&rsquo;s office [PDF&nbsp;-&nbsp;104&nbsp;KB]</a>.</p><h4>Get help from a breastfeeding specialist.</h4><p>Many health centers, clinics, and hospitals have lactation (breastfeeding) experts to answer all your questions and help you get started.</p><p>Your doctor or midwife may refer you to one of these experts. They are usually called lactation counselors, consultants, or specialists.</p><h4>Get help from another mom.</h4><p>Breastfeeding peer counselors are moms who breastfed their own babies and have learned how to help other women start breastfeeding. Ask your doctor or midwife how to find a peer counselor near you.</p><p>After you begin breastfeeding, it&#39;s normal to have lots of questions. Talk to your doctor, nurse, or lactation counselor as often as you need to.</p><h3>What about cost?</h3><p>Thanks to the <a href=\"https://www.healthcare.gov/coverage/breast-feeding-benefits/\" >Affordable Care Act</a>, the health care reform law passed in 2010, health insurance plans must cover counseling and access to breastfeeding supplies for pregnant and nursing women. That means you may be able to get help with breastfeeding at no cost to you.</p><p>Talk to your insurance company to find out more. For information about other services covered by the Affordable Care Act, <a href=\"https://www.healthcare.gov/preventive-care-benefits/\" >visit&nbsp;HealthCare.gov</a>.</p><h4>Find out about WIC.</h4><p>WIC (Women, Infants, and Children) is a government program that can help you get healthy food for yourself and your baby. Ask your doctor or midwife to help you sign up for this no-cost program. <a href=\"http://www.fns.usda.gov/wic/frequently-asked-questions-about-wic\" >Find out more about WIC</a>.</p><h3>Make a plan for after your baby is born.</h3><p>You can provide breast milk for your baby even when you are apart. A lactation counselor can help you learn to pump and store breast milk for your baby to have while you are away.</p><p>If you plan to go back to work after pregnancy, talk to your supervisor ahead of time about where you can pump and store your breast milk at work.&nbsp;<span>Most employers are now required by law to give you time and a place to pump milk for your baby.</span></p><p>Get more information about:</p><ul ><li><a href=\"http://www.womenshealth.gov/breastfeeding/pumping-and-milk-storage/\" >Pumping and storing your breast milk</a></li><li><a href=\"http://www.dol.gov/whd/regs/compliance/whdfs73.htm\" >Your rights at work</a></li></ul><h3>Get close to your baby right away.</h3><p>Tell your doctor, midwife, or nurse that you want to cuddle with your baby skin-to-skin right after you give birth &ndash; and that you want to&nbsp;breastfeed within 1 hour. This will help you and your baby get off to a good start with breastfeeding.</p><p>At first, your milk will be yellow. This is called colostrum (&ldquo;coh-LOSS-trum&rdquo;), and it&rsquo;s very good for your baby. Your regular milk will come in after a couple of days, and your breasts will feel full.</p><h3>Nurse whenever your baby shows signs of hunger.</h3><p>Newborn babies need to nurse often &ndash; about every 2 hours. Nursing regularly is also important for you, because it signals your body to make enough milk.</p><p>Watch your baby for signs of hunger, like:</p><ul><li>Moving his head from side to side (called rooting)</li><li>Being more alert</li><li>Acting fussy</li></ul><p><a href=\"http://womenshealth.gov/itsonlynatural/pdfs/hhs_bfa_itsonlynatural_howtofactsheet_v8_508_final%20copy.pdf\" >Check out these simple steps to breastfeeding success [PDF -&nbsp;1&nbsp;MB]</a>.</p><h3>Ask for help if breastfeeding is difficult.</h3><p>Breastfeeding is new for you and your baby, and it will take time and practice. Keep in mind that most women are able to work through any problems they have with breastfeeding at first.</p><h4>Breastfeeding shouldn&#39;t hurt.</h4><p>You may think breastfeeding is a little uncomfortable at first, but it&rsquo;s not normal for breastfeeding to be painful. If you have pain during breastfeeding, it may be a sign that your baby isn&rsquo;t getting all the milk he needs.</p><p>Talk to your doctor, nurse, or lactation counselor if you have pain&nbsp;or any other problems. Ask for help so that you and your baby can enjoy breastfeeding.</p><ul ><li><a href=\"http://www.womenshealth.gov/breastfeeding/common-challenges/\" >Find out how to deal with common breastfeeding challenges</a>.</li><li><a href=\"https://healthfinder.gov/HealthTopics/Category/parenting/nutrition-and-physical-activity/eat-healthy-while-breastfeeding-quick-tips\">Use these tips to eat healthy while breastfeeding</a>.</li><li><a href=\"http://www.womenshealth.gov/breastfeeding/breastfeeding-and-everyday-life.html\" >Get answers to other questions about breastfeeding</a>.</li></ul><h3>Give your baby vitamin D.</h3><p>Babies need vitamin D for healthy bone growth. Even if you take extra vitamin D, your breast milk won&rsquo;t provide enough vitamin D for your baby. Talk to your baby&rsquo;s doctor or nurse about how to make sure your baby gets enough vitamin D.</p>"
+                }
+              ]
+            },
+            "MoreInfoItems": null,
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "tool",
+            "Id": "60",
+            "Title": "Gestational Diabetes Screening: Questions for the doctor",
+            "TranslationId": "35",
+            "TranslationTitle": "Preguntas para el doctor: La prueba de la diabetes gestacional",
+            "Categories": "Talking with the Doctor, Doctor and Midwife Visits, Doctor Visits, Questions for Doctor",
+            "Populations": null,
+            "MyHFTitle": "Get Tested for Gestational Diabetes",
+            "MyHFDescription": "Testing for gestational diabetes is part of regular prenatal care and usually happens between 24 and 28 weeks of pregnancy. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "9/26/2016 10:17:49 AM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/tools_icons/gestationaldiabetesscreeningquestionsforthedoctor.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/talking-with-the-doctor/gestational-diabetes-screening-questions-for-the-doctor",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "topic",
+                  "Id": "48",
+                  "Title": "Have a Healthy Pregnancy",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/have-a-healthy-pregnancy"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "50",
+                  "Title": "Breastfeed Your Baby",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/getting-ready-for-your-baby/breastfeed-your-baby"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "57",
+                  "Title": "Talk with Your Doctor about Newborn Screening",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/talk-with-your-doctor-about-newborn-screening"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": null,
+                  "Description": null,
+                  "Content": "<p>Gestational (&ldquo;jes-TAY-shon-al&rdquo;) diabetes is a type of diabetes that some women develop during pregnancy. When you have diabetes, there is too much sugar (called glucose) in your blood.</p><p>If you develop gestational diabetes, it can lead to health problems for you and your baby during and after pregnancy. For example:</p><ul><li>Before birth, your baby is likely to grow bigger than usual. This could make giving birth more difficult &ndash; and make it more likely that you will have a caesarian delivery (C-section).</li><li>After birth, your baby may be at risk for childhood&nbsp;obesity.</li><li>You will be at risk for developing type 2 diabetes after pregnancy. After your baby is born, you&#39;ll need to get tested regularly for type 2 diabetes.</li></ul><p>If you have gestational diabetes, you and your doctor or midwife can work together to protect your health and your baby&rsquo;s health. You can reduce your risk for gestational diabetes by eating healthy and staying active during your pregnancy.</p><p>Getting tested for gestational diabetes is part of regular prenatal care (health care during pregnancy). The test is usually done&nbsp;between 24 and 28 weeks of pregnancy.</p><p><strong>What about cost?</strong><br />Under the Affordable Care Act, health insurance plans must cover testing for gestational diabetes. Depending on your plan, you may be able to get screened at no cost to you. Check with your insurance company to learn more.</p><h2>What do I ask the doctor?</h2><p>Visiting the doctor can be stressful. It helps to have questions written down before your appointment. Print this list&nbsp;of&nbsp;questions, and take it with you the next time you visit your doctor or midwife.</p><ul><li>What puts me at risk for gestational (&ldquo;jes-TAY-shon-al&rdquo;) diabetes?</li><li>What can I do to lower my risk?</li><li>How will you test me for gestational diabetes?</li><li>How could gestational diabetes affect my baby&rsquo;s health?</li><li>How could gestational diabetes affect my health?</li><li>If I have gestational diabetes, what happens next?</li></ul>"
+                }
+              ]
+            },
+            "MoreInfoItems": {
+              "MoreInfoItem": [
+                {
+                  "Title": "http://www.cdc.gov/pregnancy/diabetes-gestational.html",
+                  "Url": "http://www.cdc.gov/pregnancy/diabetes-gestational.html"
+                },
+                {
+                  "Title": "http://www.cdc.gov/diabetes/pubs/pdf/gestationalDiabetes.pdf [PDF - 2 MB]",
+                  "Url": "http://www.cdc.gov/diabetes/pubs/pdf/gestationalDiabetes.pdf"
+                }
+              ]
+            },
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "tool",
+            "Id": "73",
+            "Title": "Preventing Preeclampsia: Questions for the doctor",
+            "TranslationId": "73",
+            "TranslationTitle": "Preguntas para el doctor: ¿Cómo prevenir la preeclampsia?",
+            "Categories": "Doctor and Midwife Visits",
+            "Populations": "Pregnancy, Women",
+            "MyHFTitle": "Talk with Your Doctor about Preeclampsia",
+            "MyHFDescription": "Ask the doctor or midwife about your risk of preeclampsia. If you are at high risk, ask about taking aspirin to lower your risk. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "10/15/2016 2:22:50 PM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/tools_icons/99089_PreeclampsiaQuestions.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/preventing-preeclampsia-questions-for-the-doctor",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "topic",
+                  "Id": "11",
+                  "Title": "Get Your Blood Pressure Checked",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/doctor-visits/screening-tests/get-your-blood-pressure-checked"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "48",
+                  "Title": "Have a Healthy Pregnancy",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/have-a-healthy-pregnancy"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "57",
+                  "Title": "Talk with Your Doctor about Newborn Screening",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/pregnancy/doctor-and-midwife-visits/talk-with-your-doctor-about-newborn-screening"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": null,
+                  "Description": null,
+                  "Content": "<p>If you are pregnant or planning to get pregnant, ask your doctor or midwife about your risk for preeclampsia (&ldquo;pree-ih-KLAMP-see-uh&rdquo;), also called toxemia. If you are at high risk, the doctor may recommend that you take a low dose (small amount) of aspirin while you are pregnant to help prevent preeclampsia.</p><p>Preeclampsia is a health problem that some women develop after about 20 weeks of&nbsp;pregnancy. Preeclampsia is usually mild, but it can be dangerous and even deadly for both a pregnant woman and her unborn baby.&nbsp;</p><p>Many women who have preeclampsia don&rsquo;t feel sick. The main sign&nbsp;of preeclampsia is high blood pressure. It&rsquo;s important to get regular checkups during pregnancy so your doctor or midwife can check your blood pressure.</p><p></p><h3>Am I at high risk for preeclampsia?&nbsp;</h3><p>Most pregnant women are not at high risk for preeclampsia.</p><p>You are at higher risk for preeclampsia if you:&nbsp;</p><ul><li>Had preeclampsia in a previous pregnancy</li><li>Are pregnant with more than one baby</li><li>Have chronic (long-term) high blood pressure</li><li>Have type 1 or type 2 diabetes, kidney disease, or certain autoimmune diseases</li></ul><p>You may also be at risk if you:</p><ul><li>Are pregnant for the first time</li><li>Are obese</li><li>Have a family history of preeclampsia</li><li>Are African American</li><li>Are age 35 or older</li></ul><h2>What do I ask the doctor?</h2><p>Visiting the doctor can be stressful. It helps to have questions written down before your appointment. Print this list&nbsp;of&nbsp;questions and take it with you the next time you visit your doctor or midwife.</p><ul><li>What are my blood pressure numbers &ndash; and are they normal?</li><li>Am I at high risk of developing preeclampsia?</li><li>If I develop preeclampsia, how could it affect me and my baby?</li><li>Do you recommend that I take low-dose aspirin to help prevent preeclampsia?</li><li>What are the risks and benefits (for me and the baby) if I take aspirin to prevent preeclampsia?</li><li>What else can I do to have a healthy pregnancy?</li></ul>"
+                }
+              ]
+            },
+            "MoreInfoItems": {
+              "MoreInfoItem": [
+                {
+                  "Title": "http://www.nlm.nih.gov/medlineplus/ency/article/000898.htm",
+                  "Url": "http://www.nlm.nih.gov/medlineplus/ency/article/000898.htm"
+                },
+                {
+                  "Title": "http://www.preeclampsia.org/health-information/faqs",
+                  "Url": "http://www.preeclampsia.org/health-information/faqs"
+                }
+              ]
+            },
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          },
+          {
+            "Type": "tool",
+            "Id": "75",
+            "Title": "Testing for Syphilis: Questions for the doctor",
+            "TranslationId": "74",
+            "TranslationTitle": "Preguntas para el doctor: la prueba de la sífilis",
+            "Categories": "HIV and Other STDs, Talking with the Doctor, Questions for Doctor, Questions for the Doctor",
+            "Populations": null,
+            "MyHFTitle": "Get Tested for Syphilis",
+            "MyHFDescription": "Get tested for syphilis at your first prenatal doctor’s visit. Ask the doctor about prevention counseling. (USPSTF)",
+            "MyHFCategory": "Pregnant",
+            "MyHFCategoryHeading": "Doctors recommend that <strong>all</strong> pregnant women:",
+            "LastUpdate": "7/25/2016 12:11:02 PM",
+            "ImageUrl": "https://healthfinder.gov/HealthTopics/glmedia/tools_icons/46165_hf_315_topic_Syphilis.jpg",
+            "ImageAlt": null,
+            "AccessibleVersion": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/syphilis-testing-questions-for-the-doctor",
+            "RelatedItems": {
+              "RelatedItem": [
+                {
+                  "Type": "topic",
+                  "Id": "32",
+                  "Title": "Get Tested for Chlamydia and Gonorrhea",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/get-tested-for-chlamydia-and-gonorrhea"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "49",
+                  "Title": "Get Tested for HIV",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/hiv-and-other-stds/get-tested-for-hiv"
+                },
+                {
+                  "Type": "topic",
+                  "Id": "87",
+                  "Title": "Choose the Right Birth Control",
+                  "Url": "https://healthfinder.gov/HealthTopics/Category/everyday-healthy-living/sexual-health/choose-the-right-birth-control"
+                }
+              ]
+            },
+            "Sections": {
+              "Section": [
+                {
+                  "Title": null,
+                  "Description": null,
+                  "Content": "<p>Syphilis (&quot;SIF-uh-lis&quot;) is a sexually transmitted disease, or STD, that you can get during vaginal, anal, or oral sex. If you are pregnant and have syphilis, you can pass it your baby.</p><p>Get tested for syphilis if you:</p><ul><li>Are pregnant</li><li>Are a man who has sex with men</li><li>Are HIV-positive (have HIV)</li></ul><p>If you have had sex with someone who tested positive for syphilis, ask your doctor if you need to get tested.&nbsp;</p><p>Some people who get syphilis have symptoms soon after they get it. But many people who have syphilis don&#39;t notice any signs or symptoms at all. The only way to know if you have syphilis is to get tested.</p><p>If it&#39;s not treated, syphilis can lead to serious health problems and even death. Medicine can cure syphilis, but it can&#39;t undo any damage that syphilis has already caused. That&#39;s why it&#39;s important to get tested regularly if you are at risk.</p><h3>What if I&#39;ve had syphilis before?</h3><p>Being treated for syphilis once doesn&#39;t protect you from getting it again. It&#39;s possible to get syphilis again after you&#39;ve been cured &ndash;&nbsp;so ask your doctor if you need to be tested.</p><h3>What about cost?</h3><p>Thanks to the Affordable Care Act, the health care reform law passed in 2010, health&nbsp;insurance plans must cover syphilis testing for adults at higher risk and all pregnant women. You may be able to get tested at no cost to you. Talk to your insurance company to find out more.</p><p>For more information about other services covered by the Affordable Care Act, visit <a href=\"https://www.healthcare.gov/coverage/preventive-care-benefits/\" >Healthcare.gov</a>.</p><h2>What do I ask the doctor?</h2><p>Visiting the doctor can be stressful. It helps to have questions for the doctor or nurse written down ahead of time. Print this list of questions and take it to your appointment.</p><ul><li>What puts me at risk for syphilis?</li><li>Do I need to get tested for syphilis?</li><li>How often do you recommend I get tested for syphilis?</li><li>How is the test done?</li><li>How will I find out my test results?</li><li>When will I get my test results?</li><li>If I have syphilis, what will happen next?</li><li>Can you give me some information about syphilis to take home with me?</li></ul>"
+                }
+              ]
+            },
+            "MoreInfoItems": {
+              "MoreInfoItem": [
+                {
+                  "Title": "http://www.cdc.gov/std/syphilis/stdfact-syphilis.htm",
+                  "Url": "http://www.cdc.gov/std/syphilis/stdfact-syphilis.htm"
+                },
+                {
+                  "Title": "http://www.cdc.gov/std/syphilis/stdfact-congenital-syphilis.htm",
+                  "Url": "http://www.cdc.gov/std/syphilis/stdfact-congenital-syphilis.htm"
+                }
+              ]
+            },
+            "HealthfinderLogo": "https://healthfinder.gov/HealthTopics/glmedia/bw_hf_logo.gif",
+            "HealthfinderUrl": "https://healthfinder.gov"
+          }
+        ]
+      }
+    }
+  }
+}
