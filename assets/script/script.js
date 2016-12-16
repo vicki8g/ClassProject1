@@ -18,25 +18,12 @@ $('#healthFinder').on('click', function() {
     var panelBodyFirst =
         '<div class="panel-body well">';
 
-    // for (var i = 0; i < 3; i++) {
-    //     var headInfo =  'Pregnancy Info';
-    //     var headDisplay = healthHeadFirst + headInfo +
-    //         headlthHeadSecond;
-    //     var healthLink = '    <a href="' +'http://cnn.com'+ '" target="_blank"> Visit Cnn</a>'
-    //     var bodyDisplay = panelBodyFirst +'yyy <br>' + healthLink + 'xxx<br>zzz </div>';
-    //        // +panelBodySecond;
-    //     $('#healthFinderInfo').append(headDisplay);
-    //     $('#healthFinderInfo').append(bodyDisplay);
-    // }
-
     $.ajax({
             url: queryURL,
             method: "GET"
         })
         // After data comes back from the request
-        .done(function(response) {
-            // console.log(queryURL);
-            // console.log(response);
+        .done(function(response) {            
 
             var results = response.Result.Resources.Pregnant.Resource;
             for (var i = 0; i < results.length; i++) {
@@ -50,9 +37,7 @@ $('#healthFinder').on('click', function() {
                 var bodyDisplay = panelBodyFirst + results[i].MyHFDescription + '<br>' + healthLink + '</div>';
                 // +panelBodySecond;
                 $('#healthFinderInfo').append(headDisplay);
-                $('#healthFinderInfo').append(bodyDisplay);
-                console.log(results[i]);
-                console.log(results[i].AccessibleVersion);
+                $('#healthFinderInfo').append(bodyDisplay);               
             }
 
         });
@@ -90,27 +75,9 @@ function displayMedicalInfo() {
 
 
 var channelName = 'TheStyleDiet';
-var vidWidth = 600;
-var vidHeight = 400;
+// var vidWidth = 600;
+// var vidHeight = 400;
 var vidResults = 1;
-
-function getPlayList(numWeek) {
-
-    $.get(
-        "https://www.googleapis.com/youtube/v3/channels", {
-            part: 'contentDetails',
-            forUsername: channelName,
-            key: 'AIzaSyDHad47cvR_LQXfWtBxgWPxVaWddrd0dvo'
-        },
-        function(data) {
-            $.each(data.items, function(i, item) {
-                // console.log(item);
-                pid = item.contentDetails.relatedPlaylists.uploads;
-                getVids(pid, numWeek);
-            })
-        }
-    );
-}
 
 function getVids(pid, numWeek) {
 
@@ -149,7 +116,7 @@ function walMartProduct(walmartWeek) {
     }).done(function(response) {
 
         $("#dynamicTable > tbody").empty();
-        var babyInfo = "I've seen some better than this, but not at this price. I definitely recommend this item.";
+       
         var babyRow = "<tr><td><img class='img-responsive' src ='" + response.items[0].mediumImage + "'/>" +
             "</td><td>" + response.items[0].name + "</td></tr>"
 
@@ -167,11 +134,6 @@ $("#datepicker").datepicker({
                     event.strftime('%D days %H:%M:%S')
                 );
             });
-        // alert('Selected: ' + dateText +
-        //     "\n\nid: " + inst.id +
-        //     "\nselectedDay: " + inst.selectedDay +
-        //     "\nselectedMonth: " + inst.selectedMonth +
-        //     "\nselectedYear: " + inst.selectedYear);
     },
 });
 $(document).on('click', '.week-btn', displayMedicalInfo);
